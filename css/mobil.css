@@ -1,0 +1,162 @@
+@media only screen and (max-width: 620px) {
+    .intro{
+    text-align: center;
+
+    }
+    .header--list {
+        display: none;
+    }
+
+    .intro--span {
+        font-family: 'Fraunces 9pt';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 40px;
+        line-height: 40px;
+        color: #FEFCF7;
+
+    }
+
+    .intro--p {
+        padding-top: 15px;
+        padding-left: 0;
+        width: 90%;
+        font-family: 'Barlow';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 26px;
+        color: #FEFCF7;
+        mix-blend-mode: normal;
+        opacity: 0.8;
+    }
+
+    .intro--btn {
+        width: 217px;
+        height: 56px;
+    }
+    
+
+    .product--div {
+        display: flex;
+        height: 395px;
+        width: 100%;
+       text-align: center;
+    }
+    
+.product--divs {
+    height: 1280px;
+    position: relative;
+    top: 10px;
+}
+
+
+
+
+.choose {
+    text-align: center;
+    padding: 24px;
+}
+
+.choose--span {
+    padding: 0;
+    margin: 0;
+    color: #FEFCF7;
+    width: 100%;
+    text-align: center;
+    
+}
+
+.choose--p {
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 25px;
+    margin-left: 74px;
+    text-align: center;
+    width: auto;
+    padding-left: 24px;
+    margin-left: 0;
+}
+ 
+.choose--div {
+    width: 240px;
+height: 382px;
+padding: 15px;
+text-align: center;
+display: flex;
+flex-wrap: wrap;
+}
+
+
+.choose--div__img {
+    width: 71px;
+height: 72px;
+margin: 0 auto;
+}
+
+.choose--div__span {
+    width: 255px;
+    height: 32px;
+
+}
+
+.choose--div__p {
+    position: relative;
+    left: 0;
+    width: 217px;
+    height: 75px;
+    font-family: 'Barlow';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 25px;
+    text-align: left;
+
+    color: #FEFCF7;
+
+}
+
+.works--divs{
+    margin-top: 469px;
+}
+.works--div {
+    width: auto;
+}
+
+.works--hr {
+    display: none;
+}
+
+.works--div--img {
+    display: none;
+}
+.works--div {
+    margin-top: 100px;
+}
+
+    .footer--container img{
+        position: relative;
+        top: 8%;
+    }
+    .footer--list {
+        width: 85%;
+        text-align: center;
+        display: block;
+        justify-content: space-around;
+        padding-top: 10%;
+    }
+
+    .footer--imgs {
+        position: relative;
+        padding-top: 8%;
+        width: 100%;
+        display: block;
+        text-align: center;
+    }
+
+    .footer--container {
+        text-align: center;
+        height: 270px;
+        display: block;
+    }
+}

@@ -10,7 +10,7 @@
     }
 
     .product--img img {
-        width: 680px;
+        width: 80%;
     }
 
     .product--div {
@@ -111,6 +111,7 @@
     .works--divs {
         width: 100%;
         display: flex;
+        flex-wrap: wrap;
         justify-content: space-around;
         /* width: 1045px; */
     }
