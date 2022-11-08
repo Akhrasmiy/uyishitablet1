@@ -1,0 +1,224 @@
+@media only screen and (max-width: 1000px){
+    .intro--span {
+        font-family: 'Fraunces 9pt';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 48px;
+        line-height: 48px;
+        color: #FEFCF7;
+
+    }
+
+    .product--img img {
+        width: 680px;
+    }
+
+    .product--div {
+        display: flex;
+        height: 195px;
+        width: 100%;
+       
+    }
+
+    .product--div--p {
+        width: 282px;
+        height: 50px;
+    }
+
+    .product--div img {
+        width: 255px;
+        position: relative;
+        top: -20px;
+    }
+
+    .product--divs {
+        display: block;
+        margin-bottom: 200px;
+    }
+
+    .choose--p {
+        font-weight: 400;
+        font-size: 15px;
+        line-height: 25px;
+        margin-left: 74px;
+        /* or 167% */
+        text-align: center;
+    }
+
+    .choose--div {
+        width: 573px;
+        height: 180px;
+        /* padding: 60px; */
+        margin: 12px auto;
+        background: #0E8784;
+        border-radius: 8px;
+        /* text-align: center; */
+        display: flex;
+    }
+
+    .choose--div__img {
+        position: relative;
+        left: 0px;
+    }
+
+    .choose--div__span {
+        position: relative;
+        top: -30px;
+        left: 50px;
+        width: 255px;
+        height: 32px;
+        font-family: 'Fraunces 9pt';
+        font-style: normal;
+        font-weight: 900;
+        font-size: 24px;
+        line-height: 32px;
+        /* identical to box height, or 133% */
+
+        text-align: center;
+
+        color: #FEFCF7;
+
+    }
+
+    .choose--div__p {
+        width: 344px;
+        height: 60px;
+        position: relative;
+        top: 0px;
+        left: -100px;
+        font-family: 'Barlow';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 15px;
+        line-height: 25px;
+        text-align: left;
+
+        color: #FEFCF7;
+
+    }
+
+    .choose {
+        text-align: center;
+    }
+
+    .works {
+        position: relative;
+        /* top: 900px; */
+
+        margin-top: 700px;
+    }
+
+    .works--divs {
+        width: 100%;
+        display: flex;
+        justify-content: space-around;
+        /* width: 1045px; */
+    }
+
+    .works--div {
+        width: 32%;
+        /* height: 430px; */
+        text-align: center;
+    }
+
+    .works--hr {
+        position: relative;
+        left: 5px;
+        width: 70%;
+        height: 3px;
+        background-color: #FDD6BA;
+    }
+
+    .works--div--img {
+        position: relative;
+        top: -45px;
+        left: -60px;
+    }
+
+    .works--div--b {
+        position: relative;
+        top: 20px;
+        left: -70px;
+        font-family: 'Fraunces 9pt';
+        font-style: normal;
+        font-weight: 900;
+        font-size: 72px;
+        line-height: 72px;
+        color: #FDD6BA;
+    }
+
+    .works--div--p {
+        width: 223px;
+        height: 154px;
+        position: relative;
+        top: 50px;
+        text-align: left;
+        font-family: 'Barlow';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 26px;
+        color: #333D4B;
+    }
+
+    .works--div--span {
+        font-family: 'Fraunces 9pt';
+        font-style: normal;
+        font-weight: 900;
+        font-size: 28px;
+        line-height: 32px;
+
+        /* or 114% */
+        padding-right: 40px;
+        width: 223px;
+        color: #333D4B;
+
+
+    }
+
+    .works--span {
+        position: relative;
+        font-family: 'Fraunces 9pt';
+        font-style: normal;
+        font-weight: 900;
+        font-size: 24px;
+        line-height: 32px;
+        color: #83888F;
+
+    }
+
+    .works--div--btn {
+        position: relative;
+        top: -100px;
+        margin-bottom: 200px;
+    }
+    .works--div--btn{
+        position: relative;
+        top: 100px;
+    }
+    .footer--container img{
+        position: relative;
+        top: 8vh;
+    }
+    .footer--list {
+        width: 85%;
+        text-align: center;
+        display: flex;
+        justify-content: space-around;
+        padding-top: 10%;
+    }
+
+    .footer--imgs {
+        position: relative;
+        padding-top: 8%;
+        width: 100%;
+        display: block;
+        text-align: center;
+    }
+
+    .footer--container {
+        text-align: center;
+        height: 270px;
+        display: block;
+    }
+}
